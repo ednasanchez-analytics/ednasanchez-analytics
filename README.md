@@ -22,7 +22,7 @@
 
 ---
 
-### 2) HER2 Market Insights — *AstraZeneca (Breast Oncology)*
+### 2) HER2 Market Insights — *(Breast Oncology)*
 - Competitive landscape & prescriber behavior mapping (Baja California, 2022–2023).  
 - Dashboards for market share & prescription patterns (Tableau / Power BI).  
 - Supports regional go-to-market decisions & brand positioning.
