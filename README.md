@@ -10,12 +10,12 @@
 **Languages:** Spanish (Native), English (B2/C1)
 
 ---
-
 ## 🔥 Featured Projects
+
 ### 1) YouTube Channel Growth Analytics — *Ciudad Viva con Omar*
 - Built a monthly analytics framework (views, watch time, retention, subs, audience).  
 - A/B testing for thumbnails/titles → higher CTR & session duration.  
-- **Impact:** ~100K subs & 1M+ monthly views in <12 months.
+- **Impact:** ~100K subs & 1M+ monthly views in <12 months.  
 
 **Repo:** _coming soon_  
 **Tags:** `YouTube Analytics` `Audience Segmentation` `A/B Testing` `KPI Dashboards`
@@ -25,10 +25,30 @@
 ### 2) HER2 Market Insights — *(Breast Oncology)*
 - Competitive landscape & prescriber behavior mapping (Baja California, 2022–2023).  
 - Dashboards for market share & prescription patterns (Tableau / Power BI).  
-- Supports regional go-to-market decisions & brand positioning.
+- Supports regional go-to-market decisions & brand positioning.  
 
 **Repo:** _private dataset — synthetic demo incoming_  
 **Tags:** `Market Intelligence` `Oncology` `Go-to-Market` `BI`
+
+---
+
+### 3) Sales KPI Dashboards — *Pharma Specialty Care*
+- Designed dashboards to track **sales KPIs, market penetration, and physician coverage** across multiple therapeutic areas (oncology, immunology, diabetes).  
+- **Tools:** Tableau & Power BI for visualization; Excel for advanced KPI modeling.  
+- Insights supported **territory optimization** and national performance recognition.  
+
+**Repo:** _demo dataset to be published_  
+**Tags:** `Sales Analytics` `KPI Tracking` `Business Intelligence` `Data Visualization`
+
+---
+
+### 4) Render App Deployment — *Analytics in the Cloud*
+- Built and deployed a **data-driven app** with Render, showcasing how BI dashboards can be shared interactively.  
+- Framework for publishing analytics projects (YouTube growth, pharma insights) as **live dashboards**.  
+- Demonstrates how to turn raw data into actionable, **cloud-accessible tools**.  
+
+**Repo:** [render_app](https://github.com/ednasanchez-analytics/render_app)  
+**Tags:** `BI Apps` `Cloud Deployment` `Flask` `Render` `Data Visualization`
 
 ---
 
