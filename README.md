@@ -45,3 +45,9 @@
 - **LinkedIn:** [linkedin.com/in/edna-lorenia-s-a96851239](https://www.linkedin.com/in/edna-lorenia-s-a96851239)
 
 > Currently open to roles in **Data Analytics / BI / Market Insights** (LatAm remote or hybrid).
+> ![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-BI-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![SQL](https://img.shields.io/badge/SQL-Basic%2FIntermediate-lightgrey)
+![Python](https://img.shields.io/badge/Python-Basic-blue)
+
