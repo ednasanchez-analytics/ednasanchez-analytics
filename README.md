@@ -11,7 +11,7 @@ My background combines pharmaceutical market analysis, digital performance track
 **1) YouTube Growth Analytics — Ciudad Viva con Omar**  
 Developed a data framework for tracking audience behavior, retention, and CTR optimization.  
 Impact: Grew a channel to ~100K subscribers and 1M+ monthly views in under 12 months.  
-🔗 [Repo](https://github.com/yourusername/CIUDAD_VIVA_YOUTUBE)  
+🔗 [Repo](https://github.com/ednasanchez-analytics/youtube-analytics-growth)  
 **Tags:** YouTube Analytics · Audience Segmentation · A/B Testing · KPI Dashboards  
 
 **2) HER2 Market Insights — Baja California**  
