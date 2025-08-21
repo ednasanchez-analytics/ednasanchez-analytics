@@ -1,74 +1,65 @@
-# Hi, I’m Edna Sánchez Woolfolk 👋  
-**Data & BI Analyst | Pharma & Digital Media | Storytelling with Data**
+👋 Hi, I’m Edna Sánchez Woolfolk  
+Data & BI Analyst | Pharma & Digital Media | Storytelling with Data  
 
-- I scale audiences and decisions with data.  
-- **YouTube Analytics:** grew a channel to ~100K subs and 1M+ monthly views in < 12 months through data-driven content, CTR & retention optimization.  
-- **Oncology Market Insights (HER2):** competitive analysis, prescriber behavior, and access trends to inform **go-to-market** strategies.
-
-**Tech:** Tableau · Excel (advanced) · Google Sheets · SQL (basic/intermediate) · Python (basic) · Power BI (practical)  
-**Tools:** Veeva CRM · Concur · Notion · Jupyter Notebook · AI automation  
-**Languages:** Spanish (Native), English (B2/C1)
-
----
-## 🔥 Featured Projects
-
-### 1) YouTube Channel Growth Analytics — *Ciudad Viva con Omar*
-- Built a monthly analytics framework (views, watch time, retention, subs, audience).  
-- A/B testing for thumbnails/titles → higher CTR & session duration.  
-- **Impact:** ~100K subs & 1M+ monthly views in <12 months.  
-
-**Repo:** _coming soon_  
-**Tags:** `YouTube Analytics` `Audience Segmentation` `A/B Testing` `KPI Dashboards`
+I help teams make smarter decisions and grow audiences through data-driven insights.  
+My background combines pharmaceutical market analysis, digital performance tracking, and BI dashboard development using tools like Tableau, Power BI, and Python.
 
 ---
 
-### 2) HER2 Market Insights — *(Breast Oncology)*
-- Competitive landscape & prescriber behavior mapping (Baja California, 2022–2023).  
-- Dashboards for market share & prescription patterns (Tableau / Power BI).  
-- Supports regional go-to-market decisions & brand positioning.  
+🔥 Featured Projects
 
-**Repo:** _private dataset — synthetic demo incoming_  
-**Tags:** `Market Intelligence` `Oncology` `Go-to-Market` `BI`
+**1) YouTube Growth Analytics — Ciudad Viva con Omar**  
+Developed a data framework for tracking audience behavior, retention, and CTR optimization.  
+Impact: Grew a channel to ~100K subscribers and 1M+ monthly views in under 12 months.  
+🔗 [Repo](https://github.com/yourusername/CIUDAD_VIVA_YOUTUBE)  
+**Tags:** YouTube Analytics · Audience Segmentation · A/B Testing · KPI Dashboards  
+
+**2) HER2 Market Insights — Baja California**  
+Analyzed oncology market dynamics and prescriber behavior using real-world sales data.  
+Created Tableau dashboards for visualizing prescription trends and market share by region.  
+🔗 [Repo](https://github.com/yourusername/MERCADO_HER2_BAJA_CALIFORNIA)  
+**Tags:** Pharma Analytics · Oncology · Market Intelligence · Tableau  
+
+**3) A/B Testing: Recommender System — eCommerce**  
+Statistical evaluation of a new recommendation system's impact on funnel conversion rates.  
+Used Python and a Z-test for proportion differences between control and test groups.  
+🔗 [Repo](https://github.com/yourusername/AB_TEST)  
+**Tags:** A/B Testing · Funnel Analysis · Python · EDA · Statistics  
+
+**4) SQL Book Database Analysis**  
+SQL queries to analyze book reviews, publishers, and author performance.  
+Explored publication trends and user behavior to inform product strategy.  
+🔗 [Repo](https://github.com/yourusername/PROYECTO_SQL)  
+**Tags:** SQL · Data Querying · Text Reviews · Ratings Analysis  
+
+**5) Operator Efficiency — CallMeMaybe Telecom (BI Dashboard Project)**  
+Identified underperforming operators using KPIs: missed calls %, wait time, and outbound activity.  
+Built interactive dashboards in Tableau to visualize trends and operational inefficiencies.  
+🔗 [Repo](https://github.com/yourusername/Analisis_de_Eficiencia_de_Operadores_CallMeMaybe_revisado)  
+📊 Dashboards:  
+- [Operator Efficiency Dashboard](https://public.tableau.com/views/DashboardFinalTripleTenCallMeMaybeSprint14OperadoresIneficaces/Dashboard1Eficiencia)  
+- [Call Distribution Dashboard](https://public.tableau.com/views/DashboardFinalTripleTenCallMeMaybeSprint14/Dashboard2Distribucin)  
+**Tags:** BI · Tableau · Telecom · KPI Tracking · Python · Statistical Testing  
 
 ---
 
-### 3) Sales KPI Dashboards — *Pharma Specialty Care*
-- Designed dashboards to track **sales KPIs, market penetration, and physician coverage** across multiple therapeutic areas (oncology, immunology, diabetes).  
-- **Tools:** Tableau & Power BI for visualization; Excel for advanced KPI modeling.  
-- Insights supported **territory optimization** and national performance recognition.  
+🧠 Skills Matrix
 
-**Repo:** _demo dataset to be published_  
-**Tags:** `Sales Analytics` `KPI Tracking` `Business Intelligence` `Data Visualization`
-
----
-
-### 4) Render App Deployment — *Analytics in the Cloud*
-- Built and deployed a **data-driven app** with Render, showcasing how BI dashboards can be shared interactively.  
-- Framework for publishing analytics projects (YouTube growth, pharma insights) as **live dashboards**.  
-- Demonstrates how to turn raw data into actionable, **cloud-accessible tools**.  
-
-**Repo:** [render_app](https://github.com/ednasanchez-analytics/render_app)  
-**Tags:** `BI Apps` `Cloud Deployment` `Flask` `Render` `Data Visualization`
+**Data & BI:** Tableau · Power BI · Excel (advanced) · SQL (basic/intermediate) · Python (basic)  
+**Analytics:** A/B Testing · KPI Dashboards · Monthly Reporting · Funnel Analysis  
+**Sectors:** Pharma (Oncology, Immunology) · Digital Media (YouTube Growth)  
+**Tools:** Notion · Jupyter · Veeva CRM · Concur · Render · AI Automation  
+**Languages:** Spanish (Native), English (B2/C1)  
 
 ---
 
-## 📊 Skills Matrix
-**Analytics & BI:** Tableau · Power BI (practical) · Excel (advanced) · SQL (basic/intermediate) · Python (basic)  
-**Reporting:** KPI dashboards · monthly reporting · audience segmentation  
-**Domain:** Pharma (Oncology HER2, Immunology) · Digital Media (YouTube)  
-**Ops & Tools:** Veeva CRM · Concur · Notion · Jupyter · AI automation
+📬 Contact
+
+📧 Email: loredna@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/edna-lorenia-s-a96851239](https://linkedin.com/in/edna-lorenia-s-a96851239)  
+🌎 Open to roles in Data Analytics / BI / Market Insights (Remote or Hybrid – LATAM)
 
 ---
 
-## 📬 Contact
-- **Email:** loredna@gmail.com  
-- **LinkedIn:** [linkedin.com/in/edna-lorenia-s-a96851239](https://www.linkedin.com/in/edna-lorenia-s-a96851239)
-
-> Currently open to roles in **Data Analytics / BI / Market Insights** (LatAm remote or hybrid).
->
-> ![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-BI-yellow)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![SQL](https://img.shields.io/badge/SQL-Basic%2FIntermediate-lightgrey)
-![Python](https://img.shields.io/badge/Python-Basic-blue)
-
+**Portfolio Tags:**  
+`Tableau` `Power BI` `SQL` `Python` `YouTube Analytics` `Pharma BI` `Market Intelligence` `A/B Testing` `Storytelling with Data`  
