@@ -35,7 +35,7 @@ Explored publication trends and user behavior to inform product strategy.
 **5) Operator Efficiency — CallMeMaybe Telecom (BI Dashboard Project)**  
 Identified underperforming operators using KPIs: missed calls %, wait time, and outbound activity.  
 Built interactive dashboards in Tableau to visualize trends and operational inefficiencies.  
-🔗 [Repo](https://github.com/yourusername/Analisis_de_Eficiencia_de_Operadores_CallMeMaybe_revisado)  
+🔗 [Repo](https://github.com/ednasanchez-analytics/CallMeMaybe_Operator_Efficiency)  
 📊 Dashboards:  
 - [Operator Efficiency Dashboard](https://public.tableau.com/views/DashboardFinalTripleTenCallMeMaybeSprint14OperadoresIneficaces/Dashboard1Eficiencia)  
 - [Call Distribution Dashboard](https://public.tableau.com/views/DashboardFinalTripleTenCallMeMaybeSprint14/Dashboard2Distribucin)  
