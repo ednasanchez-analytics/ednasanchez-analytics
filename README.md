@@ -23,7 +23,7 @@ Created Tableau dashboards for visualizing prescription trends and market share 
 **3) A/B Testing: Recommender System — eCommerce**  
 Statistical evaluation of a new recommendation system's impact on funnel conversion rates.  
 Used Python and a Z-test for proportion differences between control and test groups.  
-🔗 [Repo](https://github.com/yourusername/AB_TEST)  
+🔗 [Repo](https://github.com/ednasanchez-analytics/ab-test-recommender-systems)  
 **Tags:** A/B Testing · Funnel Analysis · Python · EDA · Statistics  
 
 **4) SQL Book Database Analysis**  
