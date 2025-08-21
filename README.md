@@ -29,7 +29,7 @@ Used Python and a Z-test for proportion differences between control and test gro
 **4) SQL Book Database Analysis**  
 SQL queries to analyze book reviews, publishers, and author performance.  
 Explored publication trends and user behavior to inform product strategy.  
-🔗 [Repo](https://github.com/yourusername/PROYECTO_SQL)  
+🔗 [Repo](https://github.com/ednasanchez-analytics/sql-book-database-analysis)  
 **Tags:** SQL · Data Querying · Text Reviews · Ratings Analysis  
 
 **5) Operator Efficiency — CallMeMaybe Telecom (BI Dashboard Project)**  
