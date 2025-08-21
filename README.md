@@ -17,7 +17,7 @@ Impact: Grew a channel to ~100K subscribers and 1M+ monthly views in under 12 mo
 **2) HER2 Market Insights — Baja California**  
 Analyzed oncology market dynamics and prescriber behavior using real-world sales data.  
 Created Tableau dashboards for visualizing prescription trends and market share by region.  
-🔗 [Repo](https://github.com/yourusername/MERCADO_HER2_BAJA_CALIFORNIA)  
+🔗 [Repo](https://github.com/ednasanchez-analytics/her2-market-insights-baja)  
 **Tags:** Pharma Analytics · Oncology · Market Intelligence · Tableau  
 
 **3) A/B Testing: Recommender System — eCommerce**  
