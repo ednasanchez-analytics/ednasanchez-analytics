@@ -6,29 +6,28 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blueviolet">
-  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi">
+  <img src="https://img.shields.io/badge/SQL-Intermedio-blueviolet">
   <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau">
-  <img src="https://img.shields.io/badge/Industry-Pharma%20%7C%20Oncology%20%7C%20Media-teal">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-gray?logo=jupyter">
+  <img src="https://img.shields.io/badge/Google%20Analytics-00BFA6?logo=googleanalytics">
+  <img src="https://img.shields.io/badge/Industry-Pharma%20%7C%20Oncology%20%7C%20Media-5C5CFF">
 </p>
 
 ---
 
 ## 💫 Mi historia
 
-
 Hola 👋 Soy **Edna Sánchez Woolfolk**, una profesional con más de una década de experiencia en la industria farmacéutica, habiendo colaborado con **Roche**, **Lilly** y actualmente con **AstraZeneca**, en el área de oncología.  
-A lo largo de mi carrera he liderado **estrategias comerciales y científicas** en distintas regiones del norte de México, conectando siempre la ciencia, el negocio y las necesidades reales de los pacientes.
+A lo largo de mi carrera he liderado **estrategias comerciales y científicas** en distintas regiones del norte de México, conectando la ciencia, el negocio y las necesidades reales de los pacientes.
 
 Durante años realicé lo que ahora entiendo como **análisis de datos “rústicos”**: combinaba Excel, reportes de campo y observaciones del mercado para descubrir patrones, entender comportamientos de prescripción y tomar decisiones más inteligentes.  
 Con el tiempo descubrí que, sin saberlo, ya era **data analyst en acción**.
 
-Esa curiosidad me llevó a formalizar mis habilidades a través de **TripleTen**, donde aprendí a aplicar **Python, SQL, Tableau y Power BI** para crear dashboards, análisis predictivos y storytelling visual.  
+Esa curiosidad me llevó a formalizar mis habilidades a través de **TripleTen**, donde aprendí a aplicar **Python, SQL, Tableau y Jupyter Notebook** para crear visualizaciones y análisis con storytelling estratégico.  
 Actualmente estoy **aplicando estos conocimientos en AstraZeneca**, fortaleciendo la toma de decisiones en oncología mediante insights basados en datos.  
 Además, continúo expandiendo mi enfoque con la certificación de **Google Analytics**, integrando analítica digital y comportamiento del usuario en mis proyectos.
 
 > 🧠 *“No solo analizo datos: traduzco historias en decisiones que generan impacto.”*
-
 
 ---
 
@@ -41,7 +40,7 @@ Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad
 - Análisis de métricas de audiencia, CTR y retención.  
 - Pruebas A/B para optimizar títulos, miniaturas y estructura narrativa.  
 - Dashboards de crecimiento semanal y segmentación por país.  
-🔧 *Python · Matplotlib · Power BI*  
+🔧 *Python · Matplotlib · Jupyter Notebook*  
 📈 **Impacto:** +70% CTR promedio y expansión internacional del canal binacional.  
 🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/youtube-analytics-growth)
 
@@ -50,9 +49,9 @@ Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad
 ### 🧬 `her2_market_insights_baja`
 **Inteligencia de mercado oncológico HER2+ en Baja California**
 - Análisis de ventas y adopción por molécula (Enhertu, Kadcyla, Perjeta).  
-- Tendencias de cobertura regional y visualizaciones ejecutivas.  
+- Tendencias de cobertura regional y visualizaciones en Tableau.  
 - Insights aplicables a estrategias médicas y comerciales.  
-🔧 *Python · Excel · Tableau*  
+🔧 *Python · SQL · Tableau*  
 📊 **Impacto:** detección de brechas de adopción y nuevas oportunidades de acceso.  
 🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/her2-market-insights-baja)
 
@@ -61,10 +60,9 @@ Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad
 ### ⚙️ `kpi_sales_pharma_dashboard`
 **KPIs que transforman equipos de ventas**
 - Diseño de indicadores reales de impacto (eficiencia, cobertura, adopción).  
-- Simulación de datos y creación de dashboards comparativos.  
-- Criterios de productividad alineados a objetivos estratégicos.  
-🔧 *Power BI · Excel avanzado*  
-📈 **Impacto:** mayor visibilidad y toma de decisiones basada en desempeño.  
+- Simulación de datos en Excel y visualización en Tableau.  
+🔧 *Excel · Tableau · SQL básico*  
+📈 **Impacto:** mayor visibilidad del desempeño comercial.  
 🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/kpi-sales-pharma-dashboard)
 
 ---
@@ -73,7 +71,7 @@ Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad
 **Decisiones con evidencia (A/B Testing)**
 - Pruebas de hipótesis con test Z y embudos de conversión.  
 - Visualización y storytelling de resultados.  
-🔧 *Python · Pandas · SciPy · Matplotlib*  
+🔧 *Python · Pandas · SciPy · Jupyter Notebook*  
 📈 **Impacto:** decisiones basadas en datos estadísticamente válidos.  
 🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/ab-test-recommender-systems)
 
@@ -93,17 +91,18 @@ Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad
 **Análisis SQL de ventas HER2 y desempeño territorial**
 - Dataset sintético para evaluar adopción, market share y eficiencia de reps.  
 - Consultas SQL para detectar brechas por institución y territorio.  
-- Dashboard Power BI con ranking de reps y oportunidades de expansión.  
-🔧 *SQL · Power BI · Tableau*  
+- Visualizaciones en Tableau con ranking y foco estratégico.  
+🔧 *SQL · Tableau · Excel*  
 📊 **Impacto:** visión estratégica sobre crecimiento HER2 y priorización de recursos.  
 🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/pharma_sales_sql_insights)
 
 ---
 
 ## 🧰 Stack y habilidades
-**Lenguajes:** Python, SQL, DAX  
-**Visualización:** Tableau, Power BI, Excel Avanzado  
-**Metodologías:** A/B Testing, storytelling con datos, diseño de KPIs, dashboards ejecutivos  
+**Lenguajes:** Python, SQL (intermedio)  
+**Herramientas:** Tableau, Jupyter Notebook, Excel  
+**Formación en curso:** Google Analytics, Estadística avanzada, Visualización de datos  
+**Metodologías:** A/B Testing, Storytelling con datos, análisis exploratorio  
 **Industria:** Salud, Oncología, Marketing Digital  
 **Soft skills:** pensamiento estratégico, curiosidad analítica, liderazgo empático  
 
@@ -121,7 +120,7 @@ Mi experiencia en salud me enseñó que detrás de cada número hay una historia
 📍 Tijuana, México  
 📧 [loredna@gmail.com](mailto:loredna@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/edna-lorenia-s-a96851239/)  
-💻 [GitHub Pages (en construcción)](https://ednasanchez-analytics.github.io/)  
+💻 [GitHub Pages](https://ednasanchez-analytics.github.io/)  
 
 ---
 
