@@ -17,15 +17,18 @@
 
 ## 💫 Mi historia
 
-Hola 👋 Soy **Edna Sánchez Woolfolk**, una profesional con más de una década de experiencia en la industria farmacéutica, habiendo colaborado con **Roche**, **Lilly** y actualmente con **AstraZeneca**, en el área de oncología.  
-A lo largo de mi carrera he liderado **estrategias comerciales y científicas** en distintas regiones del norte de México, conectando la ciencia, el negocio y las necesidades reales de los pacientes.
+Hola 👋 Soy **Edna Sánchez Woolfolk**, **MBA con especialización en Data Analytics** y con más de una década de experiencia en la **industria farmacéutica**, habiendo colaborado con **Roche**, **Lilly** y actualmente con **AstraZeneca**, en el área de **oncología**.  
+
+A lo largo de mi trayectoria he liderado **estrategias comerciales y científicas** en distintas regiones del norte de México, conectando la **ciencia, el negocio y las necesidades reales de los pacientes**.  
 
 Durante años realicé lo que ahora entiendo como **análisis de datos “rústicos”**: combinaba Excel, reportes de campo y observaciones del mercado para descubrir patrones, entender comportamientos de prescripción y tomar decisiones más inteligentes.  
-Con el tiempo descubrí que, sin saberlo, ya era **data analyst en acción**.
+Con el tiempo comprendí que, sin saberlo, ya aplicaba **pensamiento analítico y metodologías de datos** de manera natural.  
 
-Esa curiosidad me llevó a formalizar mis habilidades a través de **TripleTen**, donde aprendí a aplicar **Python, SQL, Tableau y Jupyter Notebook** para crear visualizaciones y análisis con storytelling estratégico.  
-Actualmente estoy **aplicando estos conocimientos en AstraZeneca**, fortaleciendo la toma de decisiones en oncología mediante insights basados en datos.  
-Además, continúo expandiendo mi enfoque con la certificación de **Google Analytics**, integrando analítica digital y comportamiento del usuario en mis proyectos.
+Esa curiosidad me llevó a formalizar mis habilidades a través de **TripleTen**, donde aprendí a aplicar **Python, SQL, Tableau y Jupyter Notebook** para crear visualizaciones y análisis con **storytelling estratégico**.  
+Actualmente aplico estos conocimientos en **AstraZeneca**, fortaleciendo la **toma de decisiones en oncología** mediante **insights basados en datos**.  
+
+Además, continúo ampliando mi enfoque con la certificación de **Google Analytics**, integrando **analítica digital y comportamiento del usuario** en mis proyectos.
+
 
 > 🧠 *“No solo analizo datos: traduzco historias en decisiones que generan impacto.”*
 
