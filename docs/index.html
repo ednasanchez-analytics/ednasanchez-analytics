@@ -6,6 +6,25 @@
   <title>Edna Sánchez Woolfolk — Data · Story · Impact</title>
   <meta name="description" content="Portafolio de Edna Sánchez Woolfolk: Estrategia Comercial, Data Analytics y Storytelling con Datos en la industria farmacéutica.">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Scroll suave sin JS */
+    html { scroll-behavior: smooth; }
+    /* Pequeño gap arriba al llegar a la sección (por si en el futuro usas header sticky) */
+    section { scroll-margin-top: 20px; }
+    /* Botones extra en hero para navegación a secciones */
+    .cta .btn--section {
+      background: transparent;
+      border: 1px solid rgba(230,236,255,.25);
+      color: var(--ink);
+    }
+    .cta .btn--section:hover {
+      border-color: rgba(0,191,166,.5);
+      transform: translateY(-1px);
+    }
+    @media (max-width: 640px){
+      .cta { gap: 8px; }
+    }
+  </style>
 </head>
 
 <body>
@@ -16,7 +35,10 @@
       <p>MBA · Estrategia Comercial · Storytelling con Datos</p>
       <p class="tagline">Transformo datos en decisiones que impulsan propósito y crecimiento real.</p>
       <div class="cta">
-        <a class="btn" href="mailto:loredna@gmail.com">Contactar</a>
+        <!-- Navegación a secciones -->
+        <a class="btn" href="#projects">Ver proyectos</a>
+        <a class="btn btn--section" href="#contact">Ir a contacto</a>
+        <!-- Enlaces externos -->
         <a class="btn btn--ghost" href="https://github.com/ednasanchez-analytics" target="_blank" rel="noopener">GitHub</a>
         <a class="btn btn--ghost" href="https://www.linkedin.com/in/edna-lorenia-s-a96851239/" target="_blank" rel="noopener">LinkedIn</a>
       </div>
@@ -24,7 +46,7 @@
   </header>
 
   <main>
-    <section class="about">
+    <section id="about" class="about">
       <h2>Mi historia</h2>
 
       <p>
@@ -52,7 +74,7 @@
       </p>
     </section>
 
-    <section class="projects">
+    <section id="projects" class="projects">
       <div class="projects__header">
         <h2>Proyectos</h2>
         <div class="filters">
@@ -69,7 +91,7 @@
       </div>
     </section>
 
-    <section class="contact">
+    <section id="contact" class="contact">
       <h2>Contacto</h2>
       <ul>
         <li>📍 Tijuana, México</li>
