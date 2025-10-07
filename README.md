@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
-  <img src="https://img.shields.io/badge/SQL-MySql-blueviolet">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blueviolet">
   <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-gray?logo=jupyter">
   <img src="https://img.shields.io/badge/Google%20Analytics-00BFA6?logo=googleanalytics">
