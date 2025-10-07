@@ -16,7 +16,7 @@ Hola 👋 Soy **Edna Sánchez Woolfolk**, una profesional que ha recorrido un ca
 del mundo corporativo farmacéutico —dirigiendo estrategias en oncología y ventas—  
 a la analítica de datos, donde descubrí que los números también cuentan historias humanas.
 
-Durante más de una década en **AstraZeneca, Roche y Sanofi**, aprendí a leer lo que los datos no decían a simple vista:  
+Durante más de una década en **AstraZeneca, Roche y Lilly**, aprendí a leer lo que los datos no decían a simple vista:  
 por qué una estrategia funcionaba, qué movía realmente la decisión de un médico o de un cliente,  
 y cómo la información podía transformarse en acción concreta y resultados medibles.
 
@@ -28,7 +28,7 @@ Trabajo con **Python, SQL, Tableau y Power BI**, pero mi enfoque siempre es más
 
 ---
 
-## 🚀 Mis proyectos (en desarrollo y ejecución)
+## 🚀 Mis proyectos 
 
 Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad aplicada a YouTube hasta la analítica dura del sector salud.
 
@@ -115,13 +115,7 @@ Mi diferencial está en entender cómo los datos se convierten en comportamiento
 💼 [LinkedIn](https://www.linkedin.com/in/edna-lorenia-s-a96851239/)  
 💻 [GitHub Pages (en construcción)](https://ednasanchez-analytics.github.io/)  
 
----
 
-## 🧠 Próximos pasos
-- Crear **GitHub Pages visual** con movimiento para mostrar los dashboards en acción.  
-- Subir **banner animado (GIF)** con frase de marca personal.  
-- Agregar **sección de certificaciones** (TripleTen, Data Analytics, etc.).  
-- Incluir **badges dinámicos** de proyectos y herramientas (GitHub Actions, Shields.io).  
 
 ---
 
