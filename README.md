@@ -120,7 +120,8 @@ Mi experiencia en salud me enseñó que detrás de cada número hay una historia
 📍 Tijuana, México  
 📧 [loredna@gmail.com](mailto:loredna@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/edna-lorenia-s-a96851239/)  
-💻 [GitHub Pages](https://ednasanchez-analytics.github.io/)  
+🌐 Portafolio: [ednasanchez-analytics.github.io/ednasanchez-analytics](https://ednasanchez-analytics.github.io/ednasanchez-analytics/)
+ 
 
 ---
 
