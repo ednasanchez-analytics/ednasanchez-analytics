@@ -1,111 +1,119 @@
-<h1 align="center">✨ Edna Sánchez Woolfolk ✨</h1>
-<p align="center"><b>Data Analyst | Estrategia Comercial & Storytelling con Datos | Pharma & Digital Media</b></p>
+<h1 align="center" style="color:#5C5CFF">✨ Edna Sánchez Woolfolk ✨</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
-<img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blue">
-<img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi">
-<img src="https://img.shields.io/badge/Tableau-orange?logo=tableau">
-<img src="https://img.shields.io/badge/Industry-Pharma%20%7C%20Oncology%20%7C%20Media-teal">
+  <b>Data Analyst | Estrategia Comercial & Storytelling con Datos | Pharma & Digital Media</b><br>
+  <i>Transformo datos en decisiones que impulsan propósito y crecimiento real.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blueviolet">
+  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi">
+  <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau">
+  <img src="https://img.shields.io/badge/Industry-Pharma%20%7C%20Oncology%20%7C%20Media-teal">
 </p>
 
 ---
 
 ## 💫 Mi historia
 
-Hola 👋 Soy **Edna Sánchez Woolfolk**, una profesional que ha recorrido un camino poco común:  
-del mundo corporativo farmacéutico —dirigiendo estrategias en oncología y ventas—  
-a la analítica de datos, donde descubrí que los números también cuentan historias humanas.
 
-Durante más de una década en **AstraZeneca, Roche y Lilly**, aprendí a leer lo que los datos no decían a simple vista:  
-por qué una estrategia funcionaba, qué movía realmente la decisión de un médico o de un cliente,  
-y cómo la información podía transformarse en acción concreta y resultados medibles.
+Hola 👋 Soy **Edna Sánchez Woolfolk**, una profesional con más de una década de experiencia en la industria farmacéutica, habiendo colaborado con **Roche**, **Lilly** y actualmente con **AstraZeneca**, en el área de oncología.  
+A lo largo de mi carrera he liderado **estrategias comerciales y científicas** en distintas regiones del norte de México, conectando siempre la ciencia, el negocio y las necesidades reales de los pacientes.
 
-Hoy, combino mi experiencia en **estrategia comercial, analítica y visualización** para diseñar soluciones de negocio basadas en evidencia.  
-Trabajo con **Python, SQL, Tableau y Power BI**, pero mi enfoque siempre es más humano que técnico:  
-**conectar los datos con el propósito detrás.**
+Durante años realicé lo que ahora entiendo como **análisis de datos “rústicos”**: combinaba Excel, reportes de campo y observaciones del mercado para descubrir patrones, entender comportamientos de prescripción y tomar decisiones más inteligentes.  
+Con el tiempo descubrí que, sin saberlo, ya era **data analyst en acción**.
 
-> 🎯 “No solo analizo datos: traduzco historias en decisiones que generan impacto.”
+Esa curiosidad me llevó a formalizar mis habilidades a través de **TripleTen**, donde aprendí a aplicar **Python, SQL, Tableau y Power BI** para crear dashboards, análisis predictivos y storytelling visual.  
+Actualmente estoy **aplicando estos conocimientos en AstraZeneca**, fortaleciendo la toma de decisiones en oncología mediante insights basados en datos.  
+Además, continúo expandiendo mi enfoque con la certificación de **Google Analytics**, integrando analítica digital y comportamiento del usuario en mis proyectos.
+
+> 🧠 *“No solo analizo datos: traduzco historias en decisiones que generan impacto.”*
+
 
 ---
 
-## 🚀 Mis proyectos 
+## 🚀 Mis proyectos (en desarrollo y ejecución)
 
-Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad aplicada a YouTube hasta la analítica dura del sector salud.
+Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad aplicada al contenido digital hasta la analítica estratégica en salud.
 
 ### 🎬 `youtube_analytics_growth`
 **Cómo escalé un canal a +100K suscriptores usando datos**
-- Analicé métricas de audiencia, CTR, retención y tiempo de visualización para optimizar contenido.  
-- Apliqué pruebas **A/B** para evaluar títulos, miniaturas y estructura narrativa.  
-- Diseñé dashboards de crecimiento semanal y segmentación por país.  
-🔧 *Python · Matplotlib · Seaborn · Power BI*  
-📈 **Impacto:** +70% CTR promedio y expansión internacional del canal binacional.
+- Análisis de métricas de audiencia, CTR y retención.  
+- Pruebas A/B para optimizar títulos, miniaturas y estructura narrativa.  
+- Dashboards de crecimiento semanal y segmentación por país.  
+🔧 *Python · Matplotlib · Power BI*  
+📈 **Impacto:** +70% CTR promedio y expansión internacional del canal binacional.  
+🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/youtube-analytics-growth)
 
 ---
 
 ### 🧬 `her2_market_insights_baja`
 **Inteligencia de mercado oncológico HER2+ en Baja California**
-- Analicé ventas y adopción por molécula (Enhertu, Kadcyla, Perjeta) y tipo de institución (IMSS, ISSSTE, Privado).  
-- Visualicé tendencias de cobertura regional y oportunidades de crecimiento.  
-- Generé reportes ejecutivos para la toma de decisiones clínicas y de acceso.  
+- Análisis de ventas y adopción por molécula (Enhertu, Kadcyla, Perjeta).  
+- Tendencias de cobertura regional y visualizaciones ejecutivas.  
+- Insights aplicables a estrategias médicas y comerciales.  
 🔧 *Python · Excel · Tableau*  
-📊 **Impacto:** identificación de brechas en adopción HER2 y propuestas de expansión territorial.
+📊 **Impacto:** detección de brechas de adopción y nuevas oportunidades de acceso.  
+🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/her2-market-insights-baja)
 
 ---
 
 ### ⚙️ `kpi_sales_pharma_dashboard`
 **KPIs que transforman equipos de ventas**
-- Diseñé un sistema de indicadores para medir **eficiencia, cobertura y adopción real** (no vanidad).  
-- Simulé datos y elaboré un dashboard comparativo de desempeño por representante.  
-- Apliqué criterios de productividad alineados con objetivos estratégicos.  
-🔧 *Power BI · Excel*  
-📊 **Impacto:** mayor visibilidad del desempeño y optimización de recursos.
+- Diseño de indicadores reales de impacto (eficiencia, cobertura, adopción).  
+- Simulación de datos y creación de dashboards comparativos.  
+- Criterios de productividad alineados a objetivos estratégicos.  
+🔧 *Power BI · Excel avanzado*  
+📈 **Impacto:** mayor visibilidad y toma de decisiones basada en desempeño.  
+🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/kpi-sales-pharma-dashboard)
 
 ---
 
 ### 🧪 `ab_test_recommender_systems`
-**Decisiones con evidencia: análisis de un sistema de recomendación**
-- Conduje pruebas A/B y test de hipótesis Z para validar conversiones entre grupos.  
-- Modelé embudos de comportamiento y segmentación de usuarios.  
-- Traducí resultados técnicos en lenguaje de negocio para stakeholders.  
+**Decisiones con evidencia (A/B Testing)**
+- Pruebas de hipótesis con test Z y embudos de conversión.  
+- Visualización y storytelling de resultados.  
 🔧 *Python · Pandas · SciPy · Matplotlib*  
-📈 **Impacto:** decisiones basadas en datos con significancia estadística (p < 0.05).
+📈 **Impacto:** decisiones basadas en datos estadísticamente válidos.  
+🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/ab-test-recommender-systems)
 
 ---
 
-### ☎️ `CallMeMaybe_operator_efficiency`
+### ☎️ `CallMeMaybe_Operator_Efficiency`
 **Eficiencia operativa en centros de atención**
-- Detecté operadores con bajo rendimiento y visualicé patrones de llamadas.  
-- Creé dashboards con KPIs de llamadas perdidas, tiempos de espera y resolución.  
-- Recomendé estrategias de entrenamiento y redistribución de carga laboral.  
+- Detección de operadores ineficientes mediante KPIs de rendimiento.  
+- Dashboards de llamadas perdidas, espera y resolución.  
 🔧 *Python · Tableau*  
-📊 **Impacto:** aumento en satisfacción de usuarios y reducción de 22% en tiempos de espera.
+📈 **Impacto:** reducción del 22% en tiempos de espera y aumento en satisfacción.  
+🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/CallMeMaybe_Operator_Efficiency)
 
 ---
 
-### 📚 `sql_book_database_analysis`
-**Explorando datos editoriales con SQL**
-- Analicé base de datos de libros y autores para detectar tendencias de reseñas y géneros.  
-- Practiqué consultas JOIN, CTE y funciones de agregación.  
-🔧 *SQL · PostgreSQL*  
-💡 **Resultado:** base sólida de análisis exploratorio en SQL aplicado.
+### 💊 `pharma_sales_sql_insights`
+**Análisis SQL de ventas HER2 y desempeño territorial**
+- Dataset sintético para evaluar adopción, market share y eficiencia de reps.  
+- Consultas SQL para detectar brechas por institución y territorio.  
+- Dashboard Power BI con ranking de reps y oportunidades de expansión.  
+🔧 *SQL · Power BI · Tableau*  
+📊 **Impacto:** visión estratégica sobre crecimiento HER2 y priorización de recursos.  
+🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/pharma_sales_sql_insights)
 
 ---
 
 ## 🧰 Stack y habilidades
 **Lenguajes:** Python, SQL, DAX  
-**Visualización:** Tableau, Power BI, Excel avanzado  
-**Metodologías:** A/B Testing, storytelling con datos, KPIs, dashboards ejecutivos  
-**Industria:** Salud, oncología, digital media, analítica comercial  
-**Soft skills:** comunicación estratégica, insight thinking, liderazgo empático  
+**Visualización:** Tableau, Power BI, Excel Avanzado  
+**Metodologías:** A/B Testing, storytelling con datos, diseño de KPIs, dashboards ejecutivos  
+**Industria:** Salud, Oncología, Marketing Digital  
+**Soft skills:** pensamiento estratégico, curiosidad analítica, liderazgo empático  
 
 ---
 
 ## 🌟 Lo que me distingue
-Muchos analistas muestran dashboards.  
-Yo muestro **decisiones**, **historias** y **contexto humano** detrás de los números.  
-Mi diferencial está en entender cómo los datos se convierten en comportamientos, oportunidades y crecimiento sostenible.
+Mientras muchos analistas muestran dashboards, yo muestro **decisiones y contexto humano**.  
+Mi experiencia en salud me enseñó que detrás de cada número hay una historia: una paciente, una estrategia o una oportunidad que puede transformar resultados reales.  
 
-> 💬 “Los números no son el fin, son el principio de una historia bien contada.”
+> 💬 *“Los datos son solo el inicio; lo importante es lo que elegimos hacer con ellos.”*
 
 ---
 
@@ -114,8 +122,6 @@ Mi diferencial está en entender cómo los datos se convierten en comportamiento
 📧 [loredna@gmail.com](mailto:loredna@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/edna-lorenia-s-a96851239/)  
 💻 [GitHub Pages (en construcción)](https://ednasanchez-analytics.github.io/)  
-
-
 
 ---
 
