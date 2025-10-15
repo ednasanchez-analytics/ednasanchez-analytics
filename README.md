@@ -1,131 +1,127 @@
-<h1 align="center" style="color:#5C5CFF">✨ Edna Sánchez Woolfolk ✨</h1>
+<!-- Header -->
+<div align="center">
+  <h1 align="center" style="color:#4DBB8C">✨ Edna Sánchez Woolfolk ✨</h1>
+  <p align="center">
+    <b>Analytical MBA | Data Analytics · Business Intelligence · Pharma Strategy</b><br>
+    <i>Transforming complex data into stories that drive clarity, growth, and purpose.</i>
+  </p>
+</div>
+
+<!-- Gradient bar -->
+<div align="center">
+  <svg width="100%" height="10">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   style="stop-color:#0F1A42;stop-opacity:1" />
+        <stop offset="25%"  style="stop-color:#4DBB8C;stop-opacity:1" />
+        <stop offset="55%"  style="stop-color:#5C5CFF;stop-opacity:1" />
+        <stop offset="85%"  style="stop-color:#8A5CFF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#CFCFEA;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="10" fill="url(#grad)"/>
+  </svg>
+</div>
+
+<!-- Badges -->
 <p align="center">
-  <b>Data Analyst | Estrategia Comercial & Storytelling con Datos | Pharma & Digital Media</b><br>
-  <i>Transformo datos en decisiones que impulsan propósito y crecimiento real.</i>
+  <a href="mailto:loredna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-4DBB8C?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/edna-lorenia-s-a96851239/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ednasanchez-analytics.github.io/ednasanchez-analytics/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-5C5CFF?logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blueviolet">
-  <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-gray?logo=jupyter">
-  <img src="https://img.shields.io/badge/Google%20Analytics-00BFA6?logo=googleanalytics">
-  <img src="https://img.shields.io/badge/Industry-Pharma%20%7C%20Oncology%20%7C%20Media-5C5CFF">
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4DBB8C" />
+  <img src="https://img.shields.io/badge/Tableau-Visual%20Analytics-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Strategy-8A5CFF" />
+  <img src="https://img.shields.io/badge/Industry-Pharma%20%7C%20Oncology%20%7C%20Analytics-6E6EFF" />
 </p>
 
 ---
 
-## 💫 Mi historia
+## 💼 About Me
 
-Hola 👋 Soy **Edna Sánchez Woolfolk**, **MBA con especialización en Data Analytics** y con más de una década de experiencia en la **industria farmacéutica**, habiendo colaborado con **Roche**, **Lilly** y actualmente con **AstraZeneca**, en el área de **oncología**.  
-
-A lo largo de mi trayectoria he liderado **estrategias comerciales y científicas** en distintas regiones del norte de México, conectando la **ciencia, el negocio y las necesidades reales de los pacientes**.  
-
-Durante años realicé lo que ahora entiendo como **análisis de datos “rústicos”**: combinaba Excel, reportes de campo y observaciones del mercado para descubrir patrones, entender comportamientos de prescripción y tomar decisiones más inteligentes.  
-Con el tiempo comprendí que, sin saberlo, ya aplicaba **pensamiento analítico y metodologías de datos** de manera natural.  
-
-Esa curiosidad me llevó a formalizar mis habilidades a través de **TripleTen**, donde aprendí a aplicar **Python, SQL, Tableau y Jupyter Notebook** para crear visualizaciones y análisis con **storytelling estratégico**.  
-Actualmente aplico estos conocimientos en **AstraZeneca**, fortaleciendo la **toma de decisiones en oncología** mediante **insights basados en datos**.  
-
-Además, continúo ampliando mi enfoque con la certificación de **Google Analytics**, integrando **analítica digital y comportamiento del usuario** en mis proyectos.
-
-
-> 🧠 *“No solo analizo datos: traduzco historias en decisiones que generan impacto.”*
+I’m an **Analytical MBA** with a proven track record in **pharma sales and strategy**, now specializing in **data analytics** to uncover insights and improve decision-making.  
+With experience at **AstraZeneca, Roche, and Eli Lilly**, I bridge the gap between **commercial strategy and data intelligence** — turning analytics into action.
 
 ---
 
-## 🚀 Mis proyectos (en desarrollo y ejecución)
+## 🎯 Focus Areas
 
-Cada proyecto refleja una etapa distinta de mi crecimiento: desde la creatividad aplicada al contenido digital hasta la analítica estratégica en salud.
-
-### 🎬 `youtube_analytics_growth`
-**Cómo escalé un canal a +100K suscriptores usando datos**
-- Análisis de métricas de audiencia, CTR y retención.  
-- Pruebas A/B para optimizar títulos, miniaturas y estructura narrativa.  
-- Dashboards de crecimiento semanal y segmentación por país.  
-🔧 *Python · Matplotlib · Jupyter Notebook*  
-📈 **Impacto:** +70% CTR promedio y expansión internacional del canal binacional.  
-🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/youtube-analytics-growth)
+- **Commercial Optimization:** KPI design, predictive modeling & A/B testing.  
+- **Market Insights:** Trend, competition, and adoption analysis.  
+- **Data Storytelling:** Translating complex data into strategic narratives.
 
 ---
 
-### 🧬 `her2_market_insights_baja`
-**Inteligencia de mercado oncológico HER2+ en Baja California**
-- Análisis de ventas y adopción por molécula (Enhertu, Kadcyla, Perjeta).  
-- Tendencias de cobertura regional y visualizaciones en Tableau.  
-- Insights aplicables a estrategias médicas y comerciales.  
-🔧 *Python · SQL · Tableau*  
-📊 **Impacto:** detección de brechas de adopción y nuevas oportunidades de acceso.  
-🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/her2-market-insights-baja)
+## 🧠 Key Projects
+
+| Project | Description | Tools |
+|:--|:--|:--|
+| 🎬 [YouTube Analytics Growth](https://github.com/ednasanchez-analytics/youtube-analytics-growth) | Data-driven channel growth (+100K subs) via CTR and audience insights. | Python · Matplotlib |
+| 🧬 [HER2 Market Insights](https://github.com/ednasanchez-analytics/her2-market-insights-baja) | Oncology market analysis for HER2+ therapies. | SQL · Tableau |
+| ⚙️ [KPI Pharma Dashboard](https://github.com/ednasanchez-analytics/kpi-sales-pharma-dashboard) | Commercial KPIs and visual dashboards for sales performance. | Excel · Tableau |
+| 🧪 [A/B Testing Systems](https://github.com/ednasanchez-analytics/ab-test-recommender-systems) | Experimental analysis and conversion optimization. | Python · SciPy |
+| 💊 [Pharma SQL Insights](https://github.com/ednasanchez-analytics/pharma_sales_sql_insights) | Territory-level SQL analysis on HER2 market adoption. | SQL · Tableau |
 
 ---
 
-### ⚙️ `kpi_sales_pharma_dashboard`
-**KPIs que transforman equipos de ventas**
-- Diseño de indicadores reales de impacto (eficiencia, cobertura, adopción).  
-- Simulación de datos en Excel y visualización en Tableau.  
-🔧 *Excel · Tableau · SQL básico*  
-📈 **Impacto:** mayor visibilidad del desempeño comercial.  
-🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/kpi-sales-pharma-dashboard)
+## 🧰 Technical Skills
+
+**Languages & Tools:** Python · SQL · Tableau  
+**Methods:** Data Analysis · Predictive Modeling · A/B Testing · Data Visualization  
+**Core Strengths:** Business Intelligence · Market Insights · Cross-Functional Collaboration  
+**Industries:** Pharmaceutical · Healthtech · Digital Media  
 
 ---
 
-### 🧪 `ab_test_recommender_systems`
-**Decisiones con evidencia (A/B Testing)**
-- Pruebas de hipótesis con test Z y embudos de conversión.  
-- Visualización y storytelling de resultados.  
-🔧 *Python · Pandas · SciPy · Jupyter Notebook*  
-📈 **Impacto:** decisiones basadas en datos estadísticamente válidos.  
-🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/ab-test-recommender-systems)
+## 🚀 Career Objective
+
+Seeking a **Data Analyst role** to combine analytical rigor with real-world business strategy — helping teams make **smarter, data-informed decisions**.  
+> 💬 *“I don’t just analyze data — I turn numbers into narratives that move decisions.”*
 
 ---
 
-### ☎️ `CallMeMaybe_Operator_Efficiency`
-**Eficiencia operativa en centros de atención**
-- Detección de operadores ineficientes mediante KPIs de rendimiento.  
-- Dashboards de llamadas perdidas, espera y resolución.  
-🔧 *Python · Tableau*  
-📈 **Impacto:** reducción del 22% en tiempos de espera y aumento en satisfacción.  
-🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/CallMeMaybe_Operator_Efficiency)
+## 📊 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/ednasanchez-analytics">
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ednasanchez-analytics&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ednasanchez-analytics&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<!-- Bottom gradient bar -->
+<div align="center">
+  <svg width="100%" height="10">
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   style="stop-color:#0F1A42;stop-opacity:1" />
+        <stop offset="25%"  style="stop-color:#4DBB8C;stop-opacity:1" />
+        <stop offset="55%"  style="stop-color:#5C5CFF;stop-opacity:1" />
+        <stop offset="85%"  style="stop-color:#8A5CFF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#CFCFEA;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="10" fill="url(#grad2)"/>
+  </svg>
+</div>
 
 ---
 
-### 💊 `pharma_sales_sql_insights`
-**Análisis SQL de ventas HER2 y desempeño territorial**
-- Dataset sintético para evaluar adopción, market share y eficiencia de reps.  
-- Consultas SQL para detectar brechas por institución y territorio.  
-- Visualizaciones en Tableau con ranking y foco estratégico.  
-🔧 *SQL · Tableau · Excel*  
-📊 **Impacto:** visión estratégica sobre crecimiento HER2 y priorización de recursos.  
-🔗 [Ver proyecto](https://github.com/ednasanchez-analytics/pharma_sales_sql_insights)
+## 📫 Contact
+
+📍 Tijuana, Mexico  
+📧 <a href="mailto:loredna@gmail.com">loredna@gmail.com</a>  
+💼 <a href="https://www.linkedin.com/in/edna-lorenia-s-a96851239/">LinkedIn</a>  
+🌐 Portfolio: <a href="https://ednasanchez-analytics.github.io/ednasanchez-analytics/">ednasanchez-analytics.github.io/ednasanchez-analytics</a>
 
 ---
 
-## 🧰 Stack y habilidades
-**Lenguajes:** Python, SQL (intermedio)  
-**Herramientas:** Tableau, Jupyter Notebook, Excel  
-**Formación en curso:** Google Analytics, Estadística avanzada, Visualización de datos  
-**Metodologías:** A/B Testing, Storytelling con datos, análisis exploratorio  
-**Industria:** Salud, Oncología, Marketing Digital  
-**Soft skills:** pensamiento estratégico, curiosidad analítica, liderazgo empático  
-
----
-
-## 🌟 Lo que me distingue
-Mientras muchos analistas muestran dashboards, yo muestro **decisiones y contexto humano**.  
-Mi experiencia en salud me enseñó que detrás de cada número hay una historia: una paciente, una estrategia o una oportunidad que puede transformar resultados reales.  
-
-> 💬 *“Los datos son solo el inicio; lo importante es lo que elegimos hacer con ellos.”*
-
----
-
-## 📫 Contacto
-📍 Tijuana, México  
-📧 [loredna@gmail.com](mailto:loredna@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/edna-lorenia-s-a96851239/)  
-🌐 Portafolio: [ednasanchez-analytics.github.io/ednasanchez-analytics](https://ednasanchez-analytics.github.io/ednasanchez-analytics/)
- 
-
----
-
-⭐ *Gracias por visitar mi perfil. Si algo te inspira aquí, probablemente compartimos la misma pasión: usar los datos para mejorar decisiones y cambiar historias.*
+⭐ *Thanks for visiting my profile — if you’re here, we probably share the same passion: using data to improve decisions and transform real stories.*
