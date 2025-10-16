@@ -120,7 +120,7 @@ Seeking a **Data Analyst role** to combine analytical rigor with real-world busi
 📍 Tijuana, Mexico  
 📧 <a href="mailto:loredna@gmail.com">loredna@gmail.com</a>  
 💼 <a href="https://www.linkedin.com/in/edna-lorenia-s-a96851239/">LinkedIn</a>  
-🌐 Portfolio: <a href="https://ednasanchez-analytics.github.io/ednasanchez-analytics/">ednasanchez-analytics.github.io/ednasanchez-analytics</a>
+🌐 Portfolio: <a href="https://ednasanchez-analytics.github.io/">ednasanchez-analytics.github.io/ednasanchez-analytics</a>
 
 ---
 
