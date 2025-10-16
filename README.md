@@ -65,11 +65,11 @@ With experience at **AstraZeneca, Roche, and Eli Lilly**, I bridge the gap betwe
 
 | Project | Description | Tools |
 |:--|:--|:--|
-| 🎬 [YouTube Analytics Growth](https://github.com/ednasanchez-analytics/youtube-analytics-growth) | Data-driven channel growth (+100K subs) via CTR and audience insights. | Python · Matplotlib |
-| 🧬 [HER2 Market Insights](https://github.com/ednasanchez-analytics/her2-market-insights-baja) | Oncology market analysis for HER2+ therapies. | SQL · Tableau |
-| ⚙️ [KPI Pharma Dashboard](https://github.com/ednasanchez-analytics/kpi-sales-pharma-dashboard) | Commercial KPIs and visual dashboards for sales performance. | Excel · Tableau |
-| 🧪 [A/B Testing Systems](https://github.com/ednasanchez-analytics/ab-test-recommender-systems) | Experimental analysis and conversion optimization. | Python · SciPy |
-| 💊 [Pharma SQL Insights](https://github.com/ednasanchez-analytics/pharma_sales_sql_insights) | Territory-level SQL analysis on HER2 market adoption. | SQL · Tableau |
+| 🎬 [YouTube Analytics Growth](https://github.com/ednasanchez-analytics/youtube-analytics-growth) | Data-driven YouTube analytics project showcasing growth strategies, KPI dashboards, and storytelling with data. Demo with synthetic datasets. | Python · Pandas · Matplotlib · Jupyter |
+| 🧬 [HER2 Market Insights (Baja)](https://github.com/ednasanchez-analytics/her2-market-insights-baja) | Oncology market analysis for HER2+ prescriptions and adoption trends in Baja California. | SQL · Python · Tableau · Jupyter |
+| 🧪 [A/B Test & Recommender Systems](https://github.com/ednasanchez-analytics/ab-test-recommender-systems) | Experimental design and recommender systems focused on conversion rate optimization and engagement metrics. | Python · SciPy · Statsmodels · Jupyter |
+| 📚 [SQL Book Database Analysis](https://github.com/ednasanchez-analytics/sql-book-database-analysis) | SQL-based analysis of book publishing trends, author performance, and review behavior. | SQL · SQLite · Python · Jupyter |
+| ☎️ [CallMeMaybe – Operator Efficiency](https://github.com/ednasanchez-analytics/CallMeMaybe_Operator_Efficiency) | Call center performance analytics: queue management, operator efficiency, and workload distribution. | Python · Pandas · NumPy · Matplotlib · Jupyter |
 
 ---
 
